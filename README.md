@@ -12,7 +12,7 @@ and the owners who care for them.
 ````markdown
 # Hi! I’m Hava 🐾, along with my human, Aaron 👋
 
-![Build](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)
+[Build](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)
 ![Pair programming](https://img.shields.io/badge/pair_programming-active-8A2BE2?style=flat-square)
 ![QA](https://img.shields.io/badge/QA-paw--reviewed-success?style=flat-square)
 ![Dogfooding](https://img.shields.io/badge/dogfooding-daily-orange?style=flat-square)
