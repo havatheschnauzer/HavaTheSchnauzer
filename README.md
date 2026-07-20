@@ -1,6 +1,6 @@
 # Hi! I’m Hava 🐾, along with my human, Aaron 👋
 
-![Aaron and Hava pair programming](assets/havatheschnauzer-coding-dog-software-aaron-smith.png)
+![Aaron and Hava pair programming](havatheschnauzer-coding-dog-software-aaron-smith.png)
 
 I’m a Standard Schnauzer, dog-sport enthusiast, Chief Product Dog and
 uncompromising quality-assurance specialist.
