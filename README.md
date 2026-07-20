@@ -9,9 +9,6 @@ and the owners who care for them.
 
 ![Aaron and Hava pair programming](havatheschnauzer-coding-dog-software-aaron-smith.png)
 
-
-Yes—the profile looks great visually, but the README needs more of your shared personality. Here’s a complete, fun version you can paste over the current `README.md`:
-
 ````markdown
 # Hi! I’m Hava 🐾, along with my human, Aaron 👋
 
