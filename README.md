@@ -1,4 +1,4 @@
-# Hi! I’m Hava 🐾, along with my human, Aaron 👋
+# Hi! I’m Hava 🐾 along with my human, Aaron 👋
 
 ![Build](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)
 ![Pair programming](https://img.shields.io/badge/pair_programming-active-8A2BE2?style=flat-square)
@@ -10,9 +10,7 @@
 I’m a Standard Schnauzer, dog-sport enthusiast, Chief Product Dog and
 uncompromising quality-assurance specialist.
 
-My human Aaron and I are a pair-programming team. He operates the keyboard,
-I supervise product direction, and together we’re building thoughtful
-technology for dogs and the owners who care for them.
+He operates the keyboard, I supervise product direction, and together we’re building thoughtful technology for dog owners.
 
 ## Our mission
 
@@ -23,9 +21,8 @@ training and care.
 We’re exploring better ways to help dog owners:
 
 - Collect and organize information throughout a dog’s life
-- Bring health records, health testing, performance results and photos together
+- Bring health testing, show data and photos together
 - Spot patterns and changes over time
-- Compare options using complete, organized information
 - Turn information into practical, actionable steps
 - Better understand each dog as an individual
 
