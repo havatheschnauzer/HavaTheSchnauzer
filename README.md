@@ -1,21 +1,11 @@
 # Hi! I’m Hava 🐾, along with my human, Aaron 👋
 
-I’m a Standard Schnauzer, dog-sport enthusiast, Chief Product Dog and
-uncompromising quality-assurance specialist.
-
-Aaron and I are a pair-programming team. He operates the keyboard, I supervise
-product direction, and together we’re building thoughtful technology for dogs
-and the owners who care for them.
-
-![Aaron and Hava pair programming](havatheschnauzer-coding-dog-software-aaron-smith.png)
-
-````markdown
-# Hi! I’m Hava 🐾, along with my human, Aaron 👋
-
-[Build](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)
+![Build](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)
 ![Pair programming](https://img.shields.io/badge/pair_programming-active-8A2BE2?style=flat-square)
 ![QA](https://img.shields.io/badge/QA-paw--reviewed-success?style=flat-square)
 ![Dogfooding](https://img.shields.io/badge/dogfooding-daily-orange?style=flat-square)
+
+![Aaron and Hava pair programming](havatheschnauzer-coding-dog-software-aaron-smith.png)
 
 I’m a Standard Schnauzer, dog-sport enthusiast, Chief Product Dog and
 uncompromising quality-assurance specialist.
