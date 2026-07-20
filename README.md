@@ -14,8 +14,6 @@ My human Aaron and I are a pair-programming team. He operates the keyboard,
 I supervise product direction, and together we’re building thoughtful
 technology for dogs and the owners who care for them.
 
-![Aaron and Hava pair programming](assets/hava-aaron-pair-programming.png)
-
 ## Our mission
 
 We believe dog-related data should do more than sit in a spreadsheet. It should
